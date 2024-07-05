@@ -1,6 +1,6 @@
 <?php
-    echo "<h1>Main</h1>";
-    echo "<h1>Product</h1>";
-    echo "<h1>About us</h1>";
-    echo "<h1>Map</h1>";
+    echo "<h1>หน้าหลัก</h1>";
+    echo "<h1>สินค้า</h1>";
+    echo "<h1>เกี่ยวกับเรา</h1>";
+    echo "<h1>แผนที่</h1>";
 ?>
